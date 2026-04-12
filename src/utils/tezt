@@ -1,0 +1,35 @@
+{
+  "state": {
+    "state": {
+      "userData": {
+        "id": 30771,
+        "user_id": null,
+        "name": null,
+        "avatar": null,
+        "username": "Abbosbek Azimjanov",
+        "token": "b4e047de419989bdf8aeaa9ff23f06ba510ae58e",
+        "points": 1503,
+        "lang": "ru",
+        "coins": 48727,
+        "current_balance": 198298,
+        "active": 1,
+        "status": "active",
+        "sub_active": 1,
+        "group_name": "GW-87 Senior",
+        "mentor_name": "Murodjon Ibrohimov Jahongir o‘g‘li",
+        "curator_name": null,
+        "exam": false,
+        "payment_reminder": false,
+        "days_left_to_payment": 17,
+        "completed_modules": 10,
+        "leaderboard_all": "1152",
+        "leaderboard_by_group": "8",
+        "leaderboard_by_branch": "419",
+        "live_update_at": null
+      },
+      "nextPath": null
+    },
+    "version": 0
+  },
+  "expiresAt": 1774388052978
+}
